@@ -1,4 +1,4 @@
-.idea
+/app/.idea
 /app/build
 /easeui/.DS_Store
 *.apk
@@ -7,7 +7,7 @@ bin/
 
 gen/
 *.iml
-.gradle
+/app/.gradle
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
