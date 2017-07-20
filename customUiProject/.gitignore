@@ -1,0 +1,16 @@
+.idea
+/app/build
+/easeui/.DS_Store
+*.apk
+*.class
+bin/
+
+gen/
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+.externalNativeBuild
